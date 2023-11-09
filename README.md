@@ -39,4 +39,4 @@ Adi is a web developer with years of frontend experience and a passion for respo
 
 ### Free Source Code
 
-👍 <a href="https://www.github.com/adiinugr" target="_blank" rel="noreferrer">Click Here</a> 👍
+👍 <a href="https://github.com/adiinugr/youtube-ig-code" target="_blank" rel="noreferrer">Click Here</a> 👍
